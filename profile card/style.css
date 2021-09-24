@@ -156,7 +156,7 @@ h2{
     }
     100% { 
             opacity: 1;
-            /* background-image: url(images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg); */
+            background-image: url(images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
             left:20%;
             top:20%;
     }     
